@@ -14,7 +14,7 @@ function App() {
       </style>
       <div style={{ width: '100vw', height: '100vh', overflow: 'hidden' }}>
         <iframe
-          src="https://wall.page/9qa7ej" // Replace with your own URL
+          src="https://moccasin-measure-871938.framer.app/" // Replace with your own URL
           title="Embedded Webpage"
           style={{ width: '100%', height: '100%', border: 'none' }}
         />
